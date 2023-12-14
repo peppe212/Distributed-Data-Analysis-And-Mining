@@ -19,4 +19,4 @@ We will approach these tasks using the Python programming language with PySpark.
 It not only allows you to write Spark applications using Python APIs, but also provides the PySpark shell for interactively analyzing your data in a distributed environment. 
 PySpark supports most of Spark’s features such as Spark SQL, DataFrame, Streaming, MLlib (Machine Learning) and Spark Core.
 We also used other libraries such as Pandas, Matplotlib, Seaborn, Folium, Graphviz, etc. always in the context of visualisation. 
-All computations and machine learning algo- rithms were solely performed using Spark.
+All computations and machine learning algorithms were solely performed using Spark.
